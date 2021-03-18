@@ -1,7 +1,5 @@
-## code_signal_exercise
-
+##code_signal_exercise
 # Level 2
-
 # Exercise 8
 After becoming famous, the CodeBots decided to move into a new building together. Each of the rooms has a different cost, and some of them are free, but there's a rumour that all the free rooms are haunted! Since the CodeBots are quite superstitious, they refuse to stay in any of the free rooms, <b>or any of the rooms below any of the free rooms.</b>
 
@@ -51,10 +49,9 @@ Guaranteed constraints:
 The total price of all the rooms that are suitable for the CodeBots to live in.
 
 [Python 3] Syntax Tips
-<!--
+
 Prints help message to the console
 Returns a string
 def helloWorld(name):
     print "This prints to the console when you Run Tests"
     return "Hello, " + name
--->
